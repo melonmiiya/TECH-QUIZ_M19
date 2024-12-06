@@ -10,7 +10,7 @@ Testing is very important within the web developing process. This project uses C
 
 Video link - 
 
-My Github Link - https://github.com/melonmiiya/PORTFOLIO_M12
+My Github Link - https://github.com/melonmiiya/TECH-QUIZ_M19
 
 ## Credits
 
