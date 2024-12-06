@@ -8,7 +8,7 @@ Testing is very important within the web developing process. This project uses C
 
 ## Links
 
-Video link - 
+Video link - https://drive.google.com/file/d/1v07sxY4DKzbIrnv3_AcooyoNAwkwny5T/view?usp=sharing
 
 My Github Link - https://github.com/melonmiiya/TECH-QUIZ_M19
 
