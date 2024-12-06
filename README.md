@@ -4,7 +4,7 @@
 
 Testing is very important within the web developing process. This project uses Cypress to help test. 
 
-![Screenshot esults](Test-Screenshot.png)
+![Screenshot esults](./assets/Test-Screenshot.png)
 
 ## Links
 
